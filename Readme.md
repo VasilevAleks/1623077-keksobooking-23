@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Санек Васильев](https://up.htmlacademy.ru/javascript/23/user/1623077).
-* Наставник: `Алёна Сиприкова`.
+* Наставник: [Алёна Сиприкова](https://htmlacademy.ru/profile/asiprikova).
 
 ---
 
